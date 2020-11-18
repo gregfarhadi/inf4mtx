@@ -1,3 +1,11 @@
 gfarhadi 
 hi may name is greg farhadian, and I have used git beofre in an internship
-i really like it when projects are based around single users pushing and pulling from a repo becuase it makes it much easier to work as a team on seperate tasks
+i really like it when projects are based around single users pushing and pulling from a repo becuase it makes it much easier to work as a team on seperate task
+
+
+
+
+
+
+
+this is a new branch1
